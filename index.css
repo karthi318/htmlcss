@@ -1,8 +1,9 @@
-p {
-    color: #ccc;
+.center{
+
+    color:purple;
     text-align: center;
 
 }
-.para{
+.center{
     background: #000;
 }
